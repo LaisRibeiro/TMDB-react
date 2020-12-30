@@ -31,4 +31,11 @@ export const useStyles = makeStyles((theme) => ({
       alignItems: 'center',
       justifyContent: 'center',
     },
+    media: {
+      height: '450px',
+    },
+    imagemModal: {
+      height: '550px',
+      alignContent: 'center'
+    }
 }));
