@@ -2,10 +2,17 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+##Alterações para rodar o projeto:
+
+Vá ao arquivo .env e altere o REACT_APP_API para a sua chave de acesso ao TMDB
+
+Siga o exemplo: (REACT_APP_API=2625df25sf25d2s5)
+
 ## Available Scripts
 
 In the project directory, you can run:
 
+### `yarn`
 ### `yarn start`
 
 Runs the app in the development mode.\
